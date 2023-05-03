@@ -8,7 +8,7 @@ programmers.
 
 ![Python Logo](https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png)
 
-# Why Python is Popular
+## Why Python is Popular
 
 Python is a popular programming language for many reasons. Some of the key features that make
 it so attractive to programmers include:
@@ -24,7 +24,7 @@ available for those who want to learn and use Python.
 distribute. This makes it an ideal choice for those who want to create and share their own
 projects without incurring any costs.
 
-# Applications of Python
+## Applications of Python
 
 Python is widely used in many different fields, such as:
 1. **Web Development** Python is often used as the backend language for web applications,
@@ -41,7 +41,7 @@ automating financial transactions, creating educational software, and building g
 Systems (GIS), it is commonly used to automate repetitive tasks, perform complex analyses,
 and create custom tools for working with GIS data.
 
-# Getting Started with Python
+## Getting Started with Python
 
 To get started with Python, you will need to download and install the Python software. You can
 download the latest version of Python from the official [Python website](https://www.python.org/downloads). Once you have installed Python, you can start writing and running code.
@@ -49,7 +49,7 @@ To write code in Python, you can use any text editor or integrated development e
 Some popular IDEs for Python include IDLE (the built-in Python IDE), PyCharm, and Visual Studio
 Code.
 
-# Python Libraries
+## Python Libraries
 
 Python has a wide range of libraries available that provide additional functionality for different
 tasks. Some of the most popular libraries include:
@@ -60,7 +60,7 @@ tasks. Some of the most popular libraries include:
 | **Matplotlib**   | A library for creating visualizations and plots.          |
 | **Scikit-learn** | A library for machine learning and data mining.           |
 
-# Python Functions
+## Python Functions
 
 Python functions are blocks of code that can be reused multiple times. A function is defined using
 the `def` keyword, followed by the function name and a set of parentheses. The code inside the
@@ -74,7 +74,7 @@ greet("John")
 ```
 When the code is run, it will print "Hello, John".
 
-## Built-in Functions
+### Built-in Functions
 
 Python has a variety of built-in functions that can be used to perform a wide range of tasks, such
 as:
@@ -87,7 +87,7 @@ as:
 | `min()`      | The *min* function is used to find the minimum value in a list or a string. |
 | `max()`      | The *max* function is used to find the maximum value in a list or a string. |
 
-# Conclusion
+## Conclusion
 
 Python is a powerful, high-level programming language that is widely used in many different fields.
 Its simple, easy-to-read syntax makes it an ideal choice for beginners and experts alike, and its
@@ -99,7 +99,7 @@ As the famous computer scientist, Guido van Rossum, the creator of Python, said:
 > code. It has a simple syntax, large community, and vast libraries for a variety of tasks. That's
 > why I love it.
 
-# Resources
+## Resources
 
 Here are some helpful resources for learning more about Python:
 - [Python.org](https://www.python.org/) - The official website for Python, with a wealth of information and resources for
