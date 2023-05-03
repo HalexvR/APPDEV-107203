@@ -22,7 +22,7 @@ available for those who want to learn and use Python.
 distribute. This makes it an ideal choice for those who want to create and share their own
 projects without incurring any costs.
 
-#Applications of Python
+# Applications of Python
 Python is widely used in many different fields, such as:
 1. **Web Development** Python is often used as the backend language for web applications,
 thanks to its powerful libraries such as Django and Flask.
