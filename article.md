@@ -73,6 +73,7 @@ tasks. Some of the most popular libraries include:
 Python functions are blocks of code that can be reused multiple times. A function is defined using
 the `def` keyword, followed by the function name and a set of parentheses. The code inside the
 function is executed when the function is called.
+
 For example, the following code defines a function called greet that prints a message:
 ```python
 def greet(name):
