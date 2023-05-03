@@ -56,3 +56,14 @@ tasks. Some of the most popular libraries include:
 | **Scikit-learn** | A library for machine learning and data mining.           |
 
 # Python Functions
+Python functions are blocks of code that can be reused multiple times. A function is defined using
+the `def` keyword, followed by the function name and a set of parentheses. The code inside the
+function is executed when the function is called.
+For example, the following code defines a function called greet that prints a message:
+```
+    def greet(name):
+        print(f"Hello, {name}")
+
+    greet("John")
+```
+When the code is run, it will print "Hello, John".
